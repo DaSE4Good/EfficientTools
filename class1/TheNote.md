@@ -1,6 +1,6 @@
 # The Note for Class 1 (第一课共创笔记)
 
-**Thanks for your contributing!!**
+**感谢你的贡献！！请再次注意，参与修改前请提交issue，描述将要添加的内容，并与我们讨论。**
 
 ## Github 贡献流程最佳实践教程
 
