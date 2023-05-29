@@ -12,7 +12,8 @@
 - 使用”docker run 镜像名”运行时，打印一句话到终端中
 - 启动一个web服务，浏览器访问时展示一句话
 
-* 用docker login登录到镜像仓库后，docker push上传镜像。如果手头没有机器装Docker，可以使用play with Docker在线试用https://labs.play-with-docker.com/，或者使用GitHub Action构建并上传。*
+
+*用docker login登录到镜像仓库后，docker push上传镜像。如果手头没有机器装Docker，可以使用play with Docker在线试用https://labs.play-with-docker.com/，或者使用GitHub Action构建并上传。*
 
 把学号或姓名、拉取镜像的命令写到下面的表格中。
 
