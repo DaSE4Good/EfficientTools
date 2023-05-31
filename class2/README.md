@@ -6,7 +6,7 @@
 
 
 ## Practice:
-用Dockerfile构建一个镜像，并上传到GitLab或GitHub Container Registry等镜像仓库。
+用Dockerfile构建一个镜像，并上传到DockerHub或GitHub Container Registry等镜像仓库。
 
 满足以下要求**之一**：
 
@@ -15,7 +15,7 @@
 
 最后，
 
-- 将学号或姓名、拉取镜像的命令和项目仓库链接添加到Practice.md
+- 将**学号或姓名**、**运行镜像的命令**和项目的**代码仓库链接**添加到Practice.md
 - 提交PR，PR描述中请注明PR类型：**Practice PR**
 
 注意： 不必接龙，跳号可以有效减少冲突。如果发生冲突，以时间最早的PR优先。
