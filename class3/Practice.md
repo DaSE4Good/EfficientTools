@@ -5,7 +5,7 @@
 | 序号 | 学号  | 姓名  | 对HugNLP进行Fork后的链接 |
 | - | - | - | - |
 | 例子 | 522xxxxxx | 王嘉宁 | https://github.com/wjn1996/HugAILab-HugNLP |
-| 1 |  |  |  |
+| 1 |2023级  |李佩瑾  |https://github.com/wakefuldreamer/HugNLP.git  |
 | 2 |  |  |  |
 | 3 |  |  |  |
 | 4 |  |  |  |
