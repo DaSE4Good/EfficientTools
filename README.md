@@ -4,7 +4,7 @@
 ## 活动内容
 - [class1: Git&GitHub]()  
 - [class2: Docker](https://github.com/DaSE4Good/EfficientTools/tree/main/class2)  
-- [class3: Hugging Face&OpenAI]([todo](https://github.com/DaSE4Good/EfficientTools/tree/main/class3))
+- [class3: Hugging Face&OpenAI]((https://github.com/DaSE4Good/EfficientTools/tree/main/class3))
 ## 活动安排
 | **时间** | **课程** | **主讲人** |
 | --- | --- | --- |
