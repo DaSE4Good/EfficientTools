@@ -1,6 +1,7 @@
 # 主题：Hugging Face & OpenAI
 ## 腾讯会议回放：
-
+[点这里](https://meeting.tencent.com/user-center/shared-record-info?id=2ccd452a-2710-4762-bc7d-42a5b8986fd1) 
+分享密码:Wt6t
 ## Practice
 
 本课程主要讲解HuggingFace和OpenAI相关工具，以及如何coding。考虑到部分同学的研究方向并非是NLP相关，所以不强制要求大家进行一些代码相关的习作。
